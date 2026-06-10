@@ -1,18 +1,17 @@
 <!-- BHUPIN-AD/README.md -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E4A76&center=true&vCenter=true&width=500&lines=Bhupin+Adhikari;Frontend+Architect;Web3+Builder;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E4A76&center=true&vCenter=true&width=500&lines=BSc+CSIT+Student;Frontend+Developer;UI%2FUX+Enthusiast;Web3+Builder" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
-> **Creative technologist** with a passion for decentralized tech and clean interfaces. 
-> Currently pursuing **BSc. CSIT** — building digital experiences that merge design thinking 
-> with blockchain utility.
+> **BSc CSIT Student | Frontend Developer | UI/UX Enthusiast** with a passion for clean interfaces and decentralized tech.  
+> I love turning complex problems into elegant, user-friendly solutions.
 
 ### 🚀 What I do
-- 🔗 **Web3 Builder** - dApps, Smart Contracts, Ethers.js
-- 🎨 **Frontend Architect** - React, Next.js, TypeScript  
+- 🎨 **Frontend Development** - React, Next.js, TypeScript, Tailwind
+- 🔗 **Web3 Exploration** - dApps, Smart Contracts, Ethers.js
 - ✏️ **UI/UX & Graphic Design** - Figma, Brand Identity
 
 ---
@@ -22,9 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHUPIN-AD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupendra-adhikari-69a41a347)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhupinadhikari/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/#)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikaribhupen18@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BHUPIN-AD&style=flat-square&color=blue)
 
@@ -62,6 +59,6 @@
 ---
 
 <div align="center">
-  <i>⚡ #OpenToCollaborate · Web3, Frontend & creative projects</i><br/>
+  <i>⚡ #OpenToCollaborate · Frontend, Web3 & creative projects</i><br/>
   <i>📍 Kathmandu, Nepal</i>
 </div>
