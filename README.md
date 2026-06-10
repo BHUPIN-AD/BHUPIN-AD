@@ -73,8 +73,7 @@
 
 <div align="center">
 
-  <!-- Streak widget – FIRE COLOURS (auto‑updates) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=highcontrast&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=FF4500&fire=FF6600&currStreakNum=FF4500&sideNums=FF4500&currStreakLabel=FF4500&sideLabels=FF4500&dates=FF4500" alt="GitHub Streak - Fire Theme" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=bhupendraadhikari)](https://git.io/streak-stats)
 
   <br/><br/>
 
