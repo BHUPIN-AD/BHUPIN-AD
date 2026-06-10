@@ -73,7 +73,7 @@
 
 <div align="center">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=bhupendraadhikari)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BHUPIN-AD)](https://git.io/streak-stats)
 
   <br/><br/>
 
