@@ -1,4 +1,4 @@
-<!-- BHUPIN-AD/README.md – Professional Edition -->
+<!-- BHUPIN-AD/README.md – Professional Edition (No Stats / No Top Languages) -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=800&color=1E4A76&center=true&vCenter=true&repeat=true&width=700&lines=BHUPENDRA+ADHIKARI;BSc+CSIT+Student;Frontend+Developer;UI%2FUX+Enthusiast;Web3+Builder" alt="Typing SVG" />
@@ -48,23 +48,27 @@
 
 ---
 
-## 📊 GitHub Analytics (Light Theme)
+## 📊 GitHub Activity (Exact Streak Table + Contribution Graph)
 
 <div align="center">
-  <!-- Stats & Languages side by side -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHUPIN-AD&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUPIN-AD&layout=compact&theme=default&hide_border=true" />
-  
-  <br/><br/>
-  
-  <!-- Streak stats – clean light theme -->
+
+  <!-- Streak table – clean light theme, exactly as your screenshot -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=default&hide_border=true" alt="GitHub Streak" />
-  
+
   <br/><br/>
-  
-  <!-- Contribution graph – GitHub‑style light graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUPIN-AD&theme=github-light&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+  <!-- Contribution graph with axes labels (light theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUPIN-AD&theme=github-light&hide_border=true&area=true&height=300" width="100%" alt="Contribution Graph" />
+
 </div>
+
+---
+
+## 🎯 Current Exploration
+
+- ⚡ **Ethers v6** & smart contract optimisation  
+- 📦 **IPFS + Fleek** for decentralised storage  
+- 🎬 **Motion design** & micro‑interactions  
 
 ---
 
