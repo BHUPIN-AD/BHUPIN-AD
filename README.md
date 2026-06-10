@@ -1,4 +1,4 @@
-<!-- BHUPIN-AD/README.md – Professional Edition (No Stats / No Top Languages) -->
+<!-- BHUPIN-AD/README.md – Professional & Auto‑Updating -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=800&color=1E4A76&center=true&vCenter=true&repeat=true&width=700&lines=BHUPENDRA+ADHIKARI;BSc+CSIT+Student;Frontend+Developer;UI%2FUX+Enthusiast;Web3+Builder" alt="Typing SVG" />
@@ -7,6 +7,7 @@
 <br/>
 
 <div align="center">
+  <!-- Dynamic profile views counter (auto‑updates) -->
   <img src="https://komarev.com/ghpvc/?username=BHUPIN-AD&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
 </div>
 
@@ -48,16 +49,16 @@
 
 ---
 
-## 📊 GitHub Activity (Exact Streak Table + Contribution Graph)
+## 📊 GitHub Activity (Auto‑Updating)
 
 <div align="center">
 
-  <!-- Streak table – clean light theme, exactly as your screenshot -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=default&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak table – shows Total Contributions, Current Streak, Longest Streak (auto‑updates) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=default&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=1E4A76&fire=1E4A76&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Contribution graph with axes labels (light theme) -->
+  <!-- Contribution graph with axes (auto‑updates, light theme) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUPIN-AD&theme=github-light&hide_border=true&area=true&height=300" width="100%" alt="Contribution Graph" />
 
 </div>
