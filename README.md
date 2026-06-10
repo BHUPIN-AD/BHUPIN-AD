@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Button style)
+## 🛠️ Tech Stack 
 
 <div align="center">
   <!-- Languages -->
