@@ -1,37 +1,46 @@
-<!-- BHUPIN-AD/README.md -->
+<!-- BHUPIN-AD/README.md – Professional Edition -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E4A76&center=true&vCenter=true&width=500&lines=BSc+CSIT+Student;Frontend+Developer;UI%2FUX+Enthusiast;Web3+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=800&color=1E4A76&center=true&vCenter=true&repeat=true&width=700&lines=BHUPENDRA+ADHIKARI;BSc+CSIT+Student;Frontend+Developer;UI%2FUX+Enthusiast;Web3+Builder" alt="Typing SVG" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BHUPIN-AD&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-> **BSc CSIT Student | Frontend Developer | UI/UX Enthusiast** with a passion for clean interfaces and decentralized tech.  
-> I love turning complex problems into elegant, user-friendly solutions.
+> **BSc CSIT Student | Frontend Developer | UI/UX Enthusiast**  
+> I craft clean, user‑friendly interfaces and explore the Web3 frontier.
 
-### 🚀 What I do
-- 🎨 **Frontend Development** - React, Next.js, TypeScript, Tailwind
-- 🔗 **Web3 Exploration** - dApps, Smart Contracts, Ethers.js
-- ✏️ **UI/UX & Graphic Design** - Figma, Brand Identity
+### 🚀 Core Focus
 
----
-
-## 🔗 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHUPIN-AD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhupendra-adhikari-69a41a347)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhupinadhikari/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhikaribhupen18@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=BHUPIN-AD&style=flat-square&color=blue)
+- 🎨 **Frontend Engineering** – React, Next.js, TypeScript, Tailwind CSS  
+- 🔗 **Web3 Development** – dApps, Smart Contracts, Ethers.js, Hardhat  
+- ✏️ **UI/UX Design** – Figma, Brand Identity, Prototyping  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect & Collaborate
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | C, C++, JavaScript, TypeScript, Python, Solidity |
+<div align="center">
+  <a href="https://github.com/BHUPIN-AD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/bhupendra-adhikari-69a41a347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/bhupinadhikari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="mailto:adhikaribhupen18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
+## 🛠️ Technical Toolkit
+
+| Domain | Technologies |
+|--------|--------------|
+| **Languages** | C, C++, JavaScript (ES6+), TypeScript, Python, Solidity |
 | **Frontend** | React, Next.js, Tailwind CSS, HTML5, CSS3 |
 | **Backend** | Node.js, Express |
 | **Web3** | Ethers.js, Web3.js, Hardhat, IPFS |
@@ -39,26 +48,27 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Analytics (Light Theme)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHUPIN-AD&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUPIN-AD&layout=compact&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- Stats & Languages side by side -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BHUPIN-AD&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHUPIN-AD&layout=compact&theme=default&hide_border=true" />
+  
+  <br/><br/>
+  
+  <!-- Streak stats – clean light theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=default&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- Contribution graph – GitHub‑style light graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUPIN-AD&theme=github-light&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 🎯 Currently exploring
-
-- ⚡ Ethers v6 & Smart Contract optimization
-- 📦 IPFS + Fleek for decentralized storage
-- 🎬 Motion Design & Micro-interactions
-
----
-
 <div align="center">
-  <i>⚡ #OpenToCollaborate · Frontend, Web3 & creative projects</i><br/>
-  <i>📍 Kathmandu, Nepal</i>
+  <sub>⚡ Open to collaborations on Frontend, Web3 & creative projects</sub><br/>
+  <sub>📍 Kathmandu, Nepal</sub>
 </div>
