@@ -68,38 +68,12 @@
 </div>
 
 ---
+## 🔥 GitHub Streak
 
-## 📊 GitHub Activity 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=dark&hide_border=true" />
+</p>
 
-
-
-<!DOCTYPE html>
-<html>
-<head><title>Streak</title></head>
-<body>
-<input id="user" placeholder="username">
-<input id="token" type="password" placeholder="token">
-<button onclick="getStreak()">Get streak</button>
-<h1 id="streak">—</h1>
-<script>
-async function getStreak() {
-    const user = document.getElementById('user').value;
-    const token = document.getElementById('token').value;
-    const res = await fetch('https://api.github.com/graphql', {
-        method: 'POST',
-        headers: {'Authorization': `Bearer ${token}`, 'Content-Type': 'application/json'},
-        body: JSON.stringify({query: `{user(login:"${user}"){contributionsCollection{contributionCalendar{weeks{contributionDays{date contributionCount}}}}}}`})
-    });
-    const json = await res.json();
-    const days = json.data.user.contributionsCollection.contributionCalendar.weeks.flatMap(w => w.contributionDays);
-    const contribSet = new Set(days.filter(d => d.contributionCount > 0).map(d => d.date));
-    let streak = 0, d = new Date(); d.setUTCHours(0,0,0,0);
-    while (contribSet.has(d.toISOString().split('T')[0])) { streak++; d.setUTCDate(d.getUTCDate() - 1); }
-    document.getElementById('streak').innerText = streak;
-}
-</script>
-</body>
-</html>
 
 <div align="center">
   <sub>⚡ Open to collaborations on Frontend, Web3 & creative projects</sub><br/>
