@@ -71,20 +71,12 @@
 
 ## 📊 GitHub Activity 
 
-<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
 
-<p align="center">
+## 📅 Contribution Graph
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHUPIN-AD&theme=dark&hide_border=true" />
-
-</p>
-
-  <!-- Contribution graph – auto updates, light theme with axes -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BHUPIN-AD&theme=github-light&hide_border=true&area=true&height=300" width="100%" alt="Contribution Graph" />
-
-</div>
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/YOUR_USERNAME)
 ---
 
 ---
